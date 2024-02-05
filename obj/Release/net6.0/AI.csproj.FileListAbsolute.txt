@@ -1,0 +1,126 @@
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\AI.exe
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\AI.deps.json
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\AI.runtimeconfig.json
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\AI.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\AI.pdb
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\AdaptiveCards.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Bot.Builder.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Bot.Builder.Dialogs.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Bot.Connector.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Bot.Connector.Streaming.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Bot.Schema.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Bot.Streaming.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Http.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Net.Http.Headers.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Definitions.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Text.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Text.Choice.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Text.DateTime.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Text.Number.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\NAudio.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\NAudio.Asio.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\NAudio.Core.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\NAudio.Midi.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\NAudio.Wasapi.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\NAudio.WinMM.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\System.IO.Pipelines.dll
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\AI.csproj.AssemblyReference.cache
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\AI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\AI.AssemblyInfoInputs.cache
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\AI.AssemblyInfo.cs
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\AI.csproj.CoreCompileInputs.cache
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\AI.csproj.CopyComplete
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\AI.dll
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\refint\AI.dll
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\AI.pdb
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\AI.genruntimeconfig.cache
+D:\Code\PRN231\Code Demo\AI\AI\obj\Release\net6.0\ref\AI.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Code\PRN231\Code Demo\AI\AI\bin\Release\net6.0\Nancy.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\AI.exe
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\AI.deps.json
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\AI.runtimeconfig.json
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\AI.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\AI.pdb
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\AdaptiveCards.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Bot.Builder.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Bot.Builder.Dialogs.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Bot.Connector.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Bot.Connector.Streaming.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Bot.Schema.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Bot.Streaming.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Http.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Net.Http.Headers.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Definitions.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Text.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Text.Choice.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Text.DateTime.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Text.Number.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Nancy.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\NAudio.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\NAudio.Asio.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\NAudio.Core.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\NAudio.Midi.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\NAudio.Wasapi.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\NAudio.WinMM.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\bin\Release\net6.0\System.IO.Pipelines.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\AI.csproj.AssemblyReference.cache
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\AI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\AI.AssemblyInfoInputs.cache
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\AI.AssemblyInfo.cs
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\AI.csproj.CoreCompileInputs.cache
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\AI.csproj.CopyComplete
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\AI.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\refint\AI.dll
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\AI.pdb
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\AI.genruntimeconfig.cache
+D:\Improtant\NCKH\SourceCode\AI\AI\obj\Release\net6.0\ref\AI.dll
